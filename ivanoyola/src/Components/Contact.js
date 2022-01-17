@@ -82,7 +82,9 @@ class Contact extends Component {
 					   <p className="address">
 						   {name}<br />
 						   {street} <br />
-						   {city}, {state} {zip}<br />
+						   {city}, <br />
+                     {state} <br />
+                     {zip}<br />
 						   <span>{phone}</span>
 					   </p>
 				   </div>
@@ -92,17 +94,15 @@ class Contact extends Component {
                   <ul id="twitter">
                      <li>
                         <span>
-                        This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                        Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum
-                        <a href="#">http://t.co/CGIrdxIlI3</a>
+                        Tweet totalente falso pero que parezca de verdad
+                        <a href="#">https://twitter.com/_VanBan_/status/1429489343777890306</a>
                         </span>
                         <b><a href="#">2 Days Ago</a></b>
                      </li>
                      <li>
                         <span>
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                        eaque ipsa quae ab illo inventore veritatis et quasi
-                        <a href="#">http://t.co/CGIrdxIlI3</a>
+                        segundo tweet totalmente falso pero igual de creible y que sea largo
+                        <a href="#">https://twitter.com/_VanBan_/status/1429489343777890306</a>
                         </span>
                         <b><a href="#">3 Days Ago</a></b>
                      </li>
